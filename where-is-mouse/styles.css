@@ -1,0 +1,27 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #1A2238;
+    color: #FF6A3D;
+}
+
+.main {
+    font-size: 1.2em;
+    width: 60%;
+}
+
+.main h1 {
+    font-size: 3vw;
+}
+
+.co-ordinates {
+    display: flex;
+}
+
+.co-ordinates p {
+    margin: auto;
+}
+
+#x, #y {
+    color: #a86e5d;
+    font-weight: bold;
+}
